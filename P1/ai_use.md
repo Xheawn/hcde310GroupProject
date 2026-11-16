@@ -1,1 +1,29 @@
+***P1 – AI Use Log***
+
+**1. AI Use**
+
+We used ChatGPT for project brainstorming, drafting concept descriptions and exploring APIs.
+
+**2. Stage**
+
+My AI use followed the stage listed at the top of the assignment: Stage 4.
+
+**3. Full AI Conversation Transcripts**
+
+ChatGPT conversation: 
+
+**4. AI-Generated Content**
+
+Concept 1: Photo Window
+
+P1/p1.md: ChatGPT assisted with concept brainstorming, descriptions, data source suggestions. 
+
+Concept 2: CoursePilot
+
+P1/p1.md: ChatGPT assisted with concept brainstorming, descriptions, data source suggestions.
+
+Concept 3
+
+[Add the actual AI-generated content and file locations, if applicable.]
+
 
