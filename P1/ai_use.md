@@ -23,8 +23,8 @@ Concept 2: CoursePilot
 
 P1/p1.md: ChatGPT assisted with concept brainstorming, descriptions, data source suggestions.
 
-Concept 3
+Concept 3: Where to eat?
 
-[Add the actual AI-generated content and file locations, if applicable.]
+P1/p1.md: ChatGPT assisted with concept brainstorming, descriptions, data source suggestions.
 
 
